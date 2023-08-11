@@ -1,1 +1,1 @@
-# PHP-OOP
+# PHP-Object oriented programming
